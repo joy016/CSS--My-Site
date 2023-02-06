@@ -1,0 +1,127 @@
+body {
+  text-align: center;
+  margin: auto;
+}
+h1 {
+  font-size: 3.75rem;
+  color: #66bfbf;
+}
+h2 {
+  font-size: 2.5rem;
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
+  font-weight: normal;
+}
+h3 {
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
+  margin-left: 0;
+}
+p {
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+}
+.top-content {
+  text-align: center;
+  position: relative;
+}
+.top-contain {
+  background-color: #e0ebe8;
+}
+.clouds1 {
+  left: 1180px;
+  width: 10px;
+  height: 10px;
+}
+.info {
+  position: relative;
+  margin-top: 10%;
+  left: 38%;
+  width: 500px;
+}
+#cloud1 {
+  position: absolute;
+  right: 20%;
+  height: 200px;
+}
+#cloud2 {
+  height: 200px;
+  margin-left: 30px;
+}
+#land {
+  height: 500px;
+}
+.clouds2 {
+  width: 10px;
+  height: 10px;
+}
+.bottom-land {
+  padding-top: 100px;
+}
+
+#mybeautifuldp {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+
+  border: 1px solid #dfd3c3;
+}
+#devGirl-img {
+  height: 180px;
+  width: 190px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  float: right;
+  background-color: #66bfbf;
+  border: 5px solid #0f0e0e;
+}
+.deve {
+  background-color: #66bfbf;
+  width: 380px;
+  height: 330px;
+  border-radius: 50%;
+}
+#development-img {
+  margin-top: 35px;
+  margin-right: 20px;
+  height: 230px;
+  width: 200px;
+  float: left;
+}
+.skill-row {
+  text-align: left;
+  display: inline-block;
+}
+.skill-row p {
+  font-size: 20px;
+}
+.skill-row h3 {
+  margin-top: 80px;
+}
+
+#name {
+  align-content: center;
+}
+.names {
+  text-align: center;
+  font-family: "Sacramento", cursive;
+}
+.icons {
+  height: 30px;
+}
+.bottom-container {
+  background-color: #e0ebe8;
+
+  padding-top: 10px;
+}
+.btn {
+  background-color: #66bfbf;
+  font-family: "Sacramento", cursive;
+  color: #fff;
+}
+hr {
+  border: 0;
+  border-top: 5px dotted #8c8c8c;
+  width: 2.5%;
+}
